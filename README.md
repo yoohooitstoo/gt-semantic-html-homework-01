@@ -18,7 +18,7 @@ If your README is very long, add a table of contents to make it easy for users t
 ## Installation
 
 1. Clone the github repository.
-2. Open index.html in browser.
+2. Open index.html in browser. blah blah 
 
 ## Usage 
 

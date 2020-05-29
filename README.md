@@ -17,13 +17,12 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+1. Clone the github repository.
+2. Open index.html in browser.
 
 ## Usage 
 
-1. Clone the github repository.
-2. Open index.html in browser.
+
 
 
 

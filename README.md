@@ -15,7 +15,7 @@ It is built using html5 and CSS3 correct semantics and with accessibility.
 
 Here is my site [Horiseon](https://yoohooitstoo.github.io/gt-semantic-html-homework-01/)
 
-![](assets\images\social-media-marketing.jpg)
+![Social Media Marketing](assets\images\social-media-marketing.jpg)
 
 ## Credits
 
